@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atlassian/cz-lerna-changelog.git"
+    "url": "https://github.com/patrickarlt/cz-lerna-changelog.git"
   },
   "author": "Joshua Nelson <jonelson@atlassian.com>, Joscha Feth <jfeth@atlassian.com>",
   "license": "MIT",
